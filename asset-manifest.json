@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a211743e.css",
+    "main.js": "/static/js/main.574441df.js",
+    "static/media/Ashu.png": "/static/media/Ashu.c7d918d4e419f4703f6e.png",
+    "static/media/poster.png": "/static/media/poster.a24c1b69cbb3d546ed30.png",
+    "static/media/Panda.png": "/static/media/Panda.659ac758c6e07aef73fb.png",
+    "static/media/illust.png": "/static/media/illust.237df64eaff07cb1b7e9.png",
+    "static/media/Devi.png": "/static/media/Devi.4e8d71cc4923662d6eb1.png",
+    "static/media/Raj.png": "/static/media/Raj.5e88101c9ba8567c1d30.png",
+    "static/media/Ankit.png": "/static/media/Ankit.60e38f793797803ec2c5.png",
+    "static/media/sign.png": "/static/media/sign.e2377578419d817ea5bf.png",
+    "static/media/Ayush.png": "/static/media/Ayush.1d730830417a825c3a00.png",
+    "static/media/event.png": "/static/media/event.78fca869cc55621699d5.png",
+    "static/media/contact1.png": "/static/media/contact1.fae87f0b7ed654821997.png",
+    "static/media/fest-1.png": "/static/media/fest-1.7d7dab0cb29af36e3d6d.png",
+    "static/media/fest-2.png": "/static/media/fest-2.fa4f4dbf4052b22cfb91.png",
+    "static/media/study.png": "/static/media/study.91a6dc3bdc37c32921d1.png",
+    "static/media/fest-3.png": "/static/media/fest-3.86646ded0889e28de23a.png",
+    "static/media/fest-4.png": "/static/media/fest-4.e9ec047ff8c5a1a3296e.png",
+    "static/media/GIET.png": "/static/media/GIET.22f94f6b024e76209a5f.png",
+    "static/media/avyakt.png": "/static/media/avyakt.2f06966fd718ed162ee1.png",
+    "static/media/avyakt-L1.png": "/static/media/avyakt-L1.37d90d9253c2c990ae5f.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.a211743e.css.map": "/static/css/main.a211743e.css.map",
+    "main.574441df.js.map": "/static/js/main.574441df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a211743e.css",
+    "static/js/main.574441df.js"
+  ]
+}
